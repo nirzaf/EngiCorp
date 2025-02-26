@@ -1,5 +1,5 @@
  
-# The repository contains the initial commit of a project, which includes various files and folders such as .bolt, src, .gitignore, README.md, and configuration files for tools like ESLint, Tailwind CSS, and Vite.
+#### The repository contains the initial commit of a project, which includes various files and folders such as .bolt, src, .gitignore, README.md, and configuration files for tools like ESLint, Tailwind CSS, and Vite.
 
 ### Main Function Points
 - This repository appears to be the initial setup for a project, as it contains only the basic files and configurations.
